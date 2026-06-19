@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # uzhavan_360
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Uzhavan360
+Smart farming app with soil testing, irrigation automation, pest management, weather updates, and multilingual support (Tamil/English).
+>>>>>>> 9c73bbcfe46d2ee55101700c1775221f1964636d
